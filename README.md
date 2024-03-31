@@ -93,7 +93,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/dabin-im/VIsualOffice.git
-cd zoom-clone
+cd VisualOffice
 ```
 
 **Installation**
